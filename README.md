@@ -29,6 +29,10 @@ ReactJS <br>
 #### development
 ⚙ `npm run dev`
 
+## Deploy
+
+[Vercel](https://vercel.com/)
+
 ## Design
 
 ![Sem título](https://user-images.githubusercontent.com/100887684/167764492-e43252c6-c309-4440-877a-7210b6774e21.png)
