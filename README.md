@@ -6,7 +6,19 @@ Sitema desenvolvido durante Next Level Week, promovida pela Rocketseat.
 
 ## Link para visualizar o projeto
 
-🔗 https://widget-feedback-iota.vercel.app/
+🔗 https://widget-feedback-iota.vercel.app/ 🔗
+
+##  Create App
+
+Este App foi criado com [Vite](https://vitejs.dev/) <br>
+
+## Tecnologias 
+
+TypeScript <br>
+ReactJs <br>
+TailwindCss <br>
+Axios <br>
+
 
 ## Instalando dependências
 
@@ -26,3 +38,4 @@ Sitema desenvolvido durante Next Level Week, promovida pela Rocketseat.
 ![dkfldflda](https://user-images.githubusercontent.com/100887684/167764739-6b48e18d-e1cf-4ba6-9453-e98dbbe86964.PNG)
 
 
+🤍
