@@ -14,10 +14,10 @@ Este App foi criado com [Vite](https://vitejs.dev/) <br>
 
 ## Tecnologias 
 
-TypeScript <br>
-ReactJS <br>
+[TypeScript](https://www.typescriptlang.org/) <br>
+[ReactJS](https://reactjs.org/) <br>
 [TailwindCSS](https://tailwindcss.com/) <br>
-[Axios](https://axios-http.com/ptbr/) <br>
+[Axios](https://axios-http.com/) <br>
 
 
 ## Instalando dependências
