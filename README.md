@@ -2,7 +2,7 @@
 
 ## Descrição 
 
-Sitema desenvolvido durante Next Level Week, promovida pela Rocketseat.
+Sitema desenvolvido durante a Next Level Week, promovida pela Rocketseat.
 
 ## Link para visualizar o projeto
 
