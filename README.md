@@ -1,12 +1,12 @@
 <h1 align='center'> Feedback Widget 💬 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/julianasinnott/REACT_TYPESCRIPT_WidgetFeedback.svg?color=633BBC">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/julianasinnott/widget-feedback.svg?color=633BBC">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/julianasinnott/REACT_TYPESCRIPT_WidgetFeedback.svg?color=633BBC">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/julianasinnott/widget-feedback.svg?color=633BBC">
   
-  <a href="https://github.com/julianasinnott/REACT_TYPESCRIPT_WidgetFeedback/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/julianasinnott/REACT_TYPESCRIPT_WidgetFeedback.svg?color=633BBC">
+  <a href="https://github.com/julianasinnott/widget-feedback/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/julianasinnott/widget-feedback.svg?color=633BBC">
   </a>
 </p>
 
@@ -38,10 +38,10 @@ Para clonar e rodar esse projeto você precisa ter instalado: [Git](https://git-
 No terminal:
 
 #### Clonando o repositório
-$ `git clone https://github.com/julianasinnott/REACT_TYPESCRIPT_WidgetFeedback.git`
+$ `git clone https://github.com/julianasinnott/widget-feedback.git`
 
 #### Entrando no repositório
-$ `cd REACT_TYPESCRIPT_WidgetFeedback`
+$ `cd widget-feedback`
 
 #### Instalando dependências
 $ `npm install`
