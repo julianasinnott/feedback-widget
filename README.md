@@ -1,5 +1,17 @@
 <h1 align='center'> Feedback Widget 💬 </h1>
 
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/julianasinnott/REACT_TYPESCRIPT_WidgetFeedback.svg?color=633BBC">
+
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/julianasinnott/REACT_TYPESCRIPT_WidgetFeedback.svg?color=633BBC">
+  
+  <a href="https://github.com/julianasinnott/REACT_TYPESCRIPT_WidgetFeedback/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/julianasinnott/REACT_TYPESCRIPT_WidgetFeedback.svg?color=633BBC">
+  </a>
+</p>
+
+![Capa](https://user-images.githubusercontent.com/100887684/173418358-f59f0c68-593a-4acc-93cc-b7933496d4d7.png)
+
 ## | Descrição |
 
 Sitema desenvolvido durante a Next Level Week, promovida pela Rocketseat.
@@ -45,6 +57,6 @@ $ `npm run dev`
 
 ## | Design |
 
-![feedback](https://user-images.githubusercontent.com/100887684/167770683-3bf4e66e-8e46-424a-9fcc-ef730680bff8.png)
+![Feedback Widget](https://user-images.githubusercontent.com/100887684/173417814-9ef88437-7008-433b-b3f3-02749699a1da.png)
 
-🤍
+
