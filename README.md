@@ -16,7 +16,7 @@
 
 Sitema desenvolvido durante a Next Level Week, promovida pela Rocketseat.
 
-## | Link para visualizar o projeto |
+## | Visualize o projeto |
 
 🔗 https://widget-feedback-iota.vercel.app/ 🔗
 
