@@ -35,6 +35,7 @@ Este App foi criado com [Vite](https://vitejs.dev/) <br>
 
 Para clonar e rodar esse projeto você precisa ter instalado: [Git](https://git-scm.com/) e [NodeJS](https://nodejs.org/en/) 
 
+<hr>
 No terminal:
 
 #### Clonando o repositório
@@ -48,6 +49,7 @@ $ `npm install`
 
 #### Executando
 $ `npm run dev`
+<hr>
 
 #### Abra http://localhost:3000/ em seu navegador 
 
